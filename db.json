@@ -218,6 +218,23 @@
 				"interests_description_html": "<p>Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention</p>",
 				"qualifications_title": "MBBS, BSc(Med), MCE, FRACP"
 			},
+			    {
+				"id": 84896,
+				"title": "Dr",
+				"first_name": "Shruti",
+				"last_name": "Kapila",
+				"distance": 0,
+				"location": "Sydney, NSW",
+				"avatar": "https://healthshare.com.au/static/images/empty_avatar.png",
+				"specialties": [
+					39
+				],
+				"profile_url": "https://www.healthshare.com.au/profile/professional/159052-dr-shruti-kapila/",
+				"interests": [],
+				"interests_description": "Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention",
+				"interests_description_html": "<p>Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention</p>",
+				"qualifications_title": "MBBS, BSc(Med), MCE, FRACP"
+			},
 			{
 				"id": 76505,
 				"title": "Dr",
