@@ -23,28 +23,6 @@
 					"rating": "3.2"
 				}
 			},
-			{
-				"id": 685388,
-				"title": "Dr",
-				"first_name": "Young",
-				"last_name": "Yu",
-				"distance": 0,
-				"location": "Sydney, NSW",
-				"avatar": "https://www.healthshare.com.au/storage/avatars/DR_Y_D.jpg.110x110_q85_box-0,13,267,280.jpg",
-				"specialties": [
-					39
-				],
-				"profile_url": "https://www.healthshare.com.au/profile/professional/142619-dr-young-yu/",
-				"interests": [],
-				"interests_description": "Consultant and interventional cardiologist, coronary intervention and echocardiography.",
-				"interests_description_html": "<p>Consultant and interventional cardiologist, coronary intervention and echocardiography.</p>",
-				"qualifications_title": null,
-				"primary_address": "Suite 2, 5 Lyrebird Street, Buderim QLD 4556",
-				"ratings": {
-					"number_of_ratings": 42,
-					"rating": "3.2"
-				}
-			},
 			    {
 				"id": 685828,
 				"title": "Dr",
