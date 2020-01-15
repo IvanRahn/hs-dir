@@ -219,13 +219,12 @@
 				"qualifications_title": "MBBS, BSc(Med), MCE, FRACP"
 			},
 			    {
-				"id": 84896,
+				"id": 848296,
 				"title": "Dr",
 				"first_name": "Shruti",
 				"last_name": "Kapila",
 				"distance": 0,
 				"location": "Sydney, NSW",
-				"avatar": "https://healthshare.com.au/static/images/empty_avatar.png",
 				"specialties": [
 					39
 				],
@@ -236,13 +235,12 @@
 				"qualifications_title": "MBBS, BSc(Med), MCE, FRACP"
 			},
 			    {
-				"id": 84896,
+				"id": 841896,
 				"title": "Dr",
 				"first_name": "Shruti",
 				"last_name": "Kapila",
 				"distance": 0,
 				"location": "Sydney, NSW",
-				"avatar": "https://healthshare.com.au/static/images/empty_avatar.png",
 				"specialties": [
 					39
 				],
@@ -250,7 +248,6 @@
 				"interests": [],
 				"interests_description": "Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention",
 				"interests_description_html": "<p>Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention</p>",
-				"qualifications_title": "MBBS, BSc(Med), MCE, FRACP"
 			},
 			{
 				"id": 76505,
@@ -259,14 +256,12 @@
 				"last_name": "Otton",
 				"distance": 0,
 				"location": "Sydney, NSW",
-				"avatar": "https://www.healthshare.com.au/storage/avatars/bio-james_otton.jpg.110x110_q85_box-17,0,165,148.jpg",
 				"specialties": [
 					39
 				],
 				"profile_url": "https://www.healthshare.com.au/profile/professional/151525-dr-james-otton/",
 				"interests": [],
 				"interests_description": "Cardiac CT, Cardiac MRI and Three-dimensional Echocardiography Early detection and managment of coronary disease",
-				"interests_description_html": "<p>Cardiac CT, Cardiac MRI and Three-dimensional Echocardiography Early detection and managment of coronary disease</p>",
 				"qualifications_title": null
 			}
 		]
