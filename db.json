@@ -23,6 +23,28 @@
 					"rating": "3.2"
 				}
 			},
+			{
+				"id": 685388,
+				"title": "Dr",
+				"first_name": "Young",
+				"last_name": "Yu",
+				"distance": 0,
+				"location": "Sydney, NSW",
+				"avatar": "https://www.healthshare.com.au/storage/avatars/DR_Y_D.jpg.110x110_q85_box-0,13,267,280.jpg",
+				"specialties": [
+					39
+				],
+				"profile_url": "https://www.healthshare.com.au/profile/professional/142619-dr-young-yu/",
+				"interests": [],
+				"interests_description": "Consultant and interventional cardiologist, coronary intervention and echocardiography.",
+				"interests_description_html": "<p>Consultant and interventional cardiologist, coronary intervention and echocardiography.</p>",
+				"qualifications_title": null,
+				"primary_address": "Suite 2, 5 Lyrebird Street, Buderim QLD 4556",
+				"ratings": {
+					"number_of_ratings": 42,
+					"rating": "3.2"
+				}
+			},
 			    {
 				"id": 685828,
 				"title": "Dr",
@@ -46,6 +68,28 @@
 				}
 			},
 			    {
+				"id": 685818,
+				"title": "Dr",
+				"first_name": "Young",
+				"last_name": "Yu",
+				"distance": 0,
+				"location": "Sydney, NSW",
+				"avatar": "https://www.healthshare.com.au/storage/avatars/DR_Y_D.jpg.110x110_q85_box-0,13,267,280.jpg",
+				"specialties": [
+					39
+				],
+				"profile_url": "https://www.healthshare.com.au/profile/professional/142619-dr-young-yu/",
+				"interests": [],
+				"interests_description": "Consultant and interventional cardiologist, coronary intervention and echocardiography.",
+				"interests_description_html": "<p>Consultant and interventional cardiologist, coronary intervention and echocardiography.</p>",
+				"qualifications_title": null,
+				"primary_address": "Suite 2, 5 Lyrebird Street, Buderim QLD 4556",
+				"ratings": {
+					"number_of_ratings": 42,
+					"rating": "3.2"
+				}
+			},
+			{
 				"id": 67861,
 				"title": "A/Prof.",
 				"first_name": "Cameron",
@@ -174,37 +218,6 @@
 				"interests_description_html": "<p>Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention</p>",
 				"qualifications_title": "MBBS, BSc(Med), MCE, FRACP"
 			},
-			    {
-				"id": 848296,
-				"title": "Dr",
-				"first_name": "Shruti",
-				"last_name": "Kapila",
-				"distance": 0,
-				"location": "Sydney, NSW",
-				"specialties": [
-					39
-				],
-				"profile_url": "https://www.healthshare.com.au/profile/professional/159052-dr-shruti-kapila/",
-				"interests": [],
-				"interests_description": "Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention",
-				"interests_description_html": "<p>Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention</p>",
-				"qualifications_title": "MBBS, BSc(Med), MCE, FRACP"
-			},
-			    {
-				"id": 841896,
-				"title": "Dr",
-				"first_name": "Shruti",
-				"last_name": "Kapila",
-				"distance": 0,
-				"location": "Sydney, NSW",
-				"specialties": [
-					39
-				],
-				"profile_url": "https://www.healthshare.com.au/profile/professional/159052-dr-shruti-kapila/",
-				"interests": [],
-				"interests_description": "Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention",
-				"interests_description_html": "<p>Echocardiography, Stress Testing, Holters and Blood pressure monitoring, Non interventional Cardiology, Cardiology in Women, Primary prevention</p>",
-			},
 			{
 				"id": 76505,
 				"title": "Dr",
@@ -212,12 +225,14 @@
 				"last_name": "Otton",
 				"distance": 0,
 				"location": "Sydney, NSW",
+				"avatar": "https://www.healthshare.com.au/storage/avatars/bio-james_otton.jpg.110x110_q85_box-17,0,165,148.jpg",
 				"specialties": [
 					39
 				],
 				"profile_url": "https://www.healthshare.com.au/profile/professional/151525-dr-james-otton/",
 				"interests": [],
 				"interests_description": "Cardiac CT, Cardiac MRI and Three-dimensional Echocardiography Early detection and managment of coronary disease",
+				"interests_description_html": "<p>Cardiac CT, Cardiac MRI and Three-dimensional Echocardiography Early detection and managment of coronary disease</p>",
 				"qualifications_title": null
 			}
 		]
